@@ -1,4 +1,4 @@
-# GITestApp
+# GI Test App
 Test for ginnova.kz
 
 
